@@ -1,8 +1,3 @@
-Baik 👍 berikut versi lengkap **README.md** tanpa format “kotak kode” — langsung bisa kamu salin dan tempel ke file `README.md` GitHub atau Streamlit Cloud.
-Semua sudah ditulis dalam **bahasa Indonesia** dan disusun agar jelas, runtut, dan bisa langsung digunakan.
-
----
-
 # Analisis Sentimen Bahasa Indonesia 🇮🇩
 
 ## Deskripsi
@@ -175,7 +170,3 @@ Aplikasi ini menggunakan lisensi **MIT License**, sehingga bebas digunakan, dimo
 Deny Kurniawan — Developer
 ChatGPT (OpenAI) — Model dan optimisasi
 
----
-
-Apakah kamu mau saya tambahkan **bagian untuk deploy di Hugging Face Spaces** juga (biar bisa dijalankan online tanpa setup manual)?
-Kalau ya, saya bisa tambahkan petunjuk dan contoh isi file `README.md` + `app.py` versi Hugging Face-nya juga.
