@@ -1,1 +1,7 @@
-streamlit
+streamlit>=1.38.0
+transformers==4.42.4
+torch==2.2.2
+numpy>=1.26.0
+matplotlib>=3.9.0
+sentencepiece
+protobuf==4.25.3
